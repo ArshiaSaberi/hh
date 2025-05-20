@@ -1,3 +1,3 @@
-# links:
+# linksproject:
 
 (links project)[https://arshiasaberi.github.io/hh/]
